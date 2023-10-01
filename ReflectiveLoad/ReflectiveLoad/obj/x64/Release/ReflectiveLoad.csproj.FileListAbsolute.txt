@@ -1,0 +1,4 @@
+C:\Users\sunflower\source\repos\ReflectiveLoad\ReflectiveLoad\bin\x64\Release\ReflectiveLoad.dll
+C:\Users\sunflower\source\repos\ReflectiveLoad\ReflectiveLoad\obj\x64\Release\ReflectiveLoad.csproj.AssemblyReference.cache
+C:\Users\sunflower\source\repos\ReflectiveLoad\ReflectiveLoad\obj\x64\Release\ReflectiveLoad.csproj.CoreCompileInputs.cache
+C:\Users\sunflower\source\repos\ReflectiveLoad\ReflectiveLoad\obj\x64\Release\ReflectiveLoad.dll
