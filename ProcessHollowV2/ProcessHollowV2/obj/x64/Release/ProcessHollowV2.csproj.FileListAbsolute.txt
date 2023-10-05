@@ -1,0 +1,4 @@
+C:\Users\sunflower\source\repos\ProcessHollowV2\ProcessHollowV2\bin\x64\Release\ProcessHollowV2.dll
+C:\Users\sunflower\source\repos\ProcessHollowV2\ProcessHollowV2\obj\x64\Release\ProcessHollowV2.csproj.AssemblyReference.cache
+C:\Users\sunflower\source\repos\ProcessHollowV2\ProcessHollowV2\obj\x64\Release\ProcessHollowV2.csproj.CoreCompileInputs.cache
+C:\Users\sunflower\source\repos\ProcessHollowV2\ProcessHollowV2\obj\x64\Release\ProcessHollowV2.dll
